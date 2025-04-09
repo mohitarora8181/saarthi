@@ -1,0 +1,33 @@
+//sender 
+
+dio0 - d4
+rst - d14
+miso - d19
+mosi - d23
+nss - d5
+sck - d18
+
+///..//
+
+//receiver
+
+lora
+nss - d5
+mosi - d13
+miso - d12
+sck - d14
+rst - d27
+dio0 - d2
+
+tft
+cs - d15
+rst - d4
+dc - d12
+mosi - d23
+sck - d18
+led - vin
+miso - d19
+
+
+
+
